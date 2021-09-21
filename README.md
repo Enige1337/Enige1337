@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-## I'm a Full-stack developer and web security and console modding student.
+## I'm a Full-stack developer, web security student and game console modder.
 
 ---
 
