@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-## I'm a Full-stack developer, web security student and game console modder.
+## I'm a beatmaker, rapper, music producer, full-stack developer, web security student and game console modder.
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brokeboienige&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
